@@ -12,3 +12,6 @@ This is a Python console application that will produce a checker board and can p
 
 ### Collaborations
 Sam Clark
+
+### PR Request
+https://github.com/kmangub/chess_board/pull/1
